@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1, "slug": "espresso-single-origin",
+    "nombre": "Espresso Single Origin",
+    "descripcion": "Extracción 25 s sobre café de origen único Colombia Huila. Caramelo, mandarina, achocolatado al final.",
+    "precio": 2.75,
+    "categorias": ["especialidades"],
+    "badge": "popular",
+    "imagenes": []
+  },
+  {
+    "id": 2, "slug": "cortado-de-la-casa",
+    "nombre": "Cortado de la Casa",
+    "descripcion": "Doble espresso con leche entera vaporizada en proporción 1:1. Equilibrio perfecto entre intensidad y cremosidad.",
+    "precio": 3.25,
+    "categorias": ["especialidades"],
+    "imagenes": []
+  },
+  {
+    "id": 3, "slug": "cappuccino-artesanal",
+    "nombre": "Cappuccino Artesanal",
+    "descripcion": "Espresso doble con microespuma de leche. Servido a 65°C para preservar dulzor natural.",
+    "precio": 3.75,
+    "categorias": ["especialidades"],
+    "variantes": [
+      { "name": "Tamaño", "options": [
+        { "label": "8 oz ($3.75)", "price": 3.75 },
+        { "label": "12 oz ($4.25)", "price": 4.25 }
+      ]}
+    ],
+    "imagenes": []
+  },
+  {
+    "id": 4, "slug": "flat-white",
+    "nombre": "Flat White",
+    "descripcion": "Ristretto doble con leche entera texturizada al punto. Intenso, pequeño, perfecto.",
+    "precio": 3.90,
+    "categorias": ["especialidades"],
+    "imagenes": []
+  },
+  {
+    "id": 5, "slug": "latte-de-temporada",
+    "nombre": "Latte de Temporada",
+    "descripcion": "Espresso con leche vaporizada y jarabe artesanal de temporada. Pregunta por el sabor del día.",
+    "precio": 4.50,
+    "categorias": ["especialidades"],
+    "badge": "popular",
+    "imagenes": []
+  },
+  {
+    "id": 6, "slug": "cold-brew-clasico",
+    "nombre": "Cold Brew Clásico",
+    "descripcion": "Maceración en frío 18 horas. Suave, bajo en acidez, dulzor natural de cacao y frutos secos.",
+    "precio": 4.00,
+    "categorias": ["frios"],
+    "imagenes": []
+  },
+  {
+    "id": 7, "slug": "cold-brew-con-leche",
+    "nombre": "Cold Brew con Leche",
+    "descripcion": "Cold brew sobre hielo con un toque de leche entera. Refrescante y aterciopelado.",
+    "precio": 4.50,
+    "categorias": ["frios"],
+    "imagenes": []
+  },
+  {
+    "id": 8, "slug": "iced-latte",
+    "nombre": "Iced Latte",
+    "descripcion": "Espresso doble sobre hielo, leche fría. Clásico veraniego con cuerpo.",
+    "precio": 4.00,
+    "categorias": ["frios"],
+    "variantes": [
+      { "name": "Leche", "options": [
+        { "label": "Entera ($4.00)", "price": 4.00 },
+        { "label": "Avena ($4.50)", "price": 4.50 },
+        { "label": "Almendra ($4.50)", "price": 4.50 }
+      ]}
+    ],
+    "imagenes": []
+  },
+  {
+    "id": 9, "slug": "frappe-caramelo",
+    "nombre": "Frappé Caramelo",
+    "descripcion": "Espresso, hielo, leche y caramelo artesanal. Cremoso, helado, irresistible.",
+    "precio": 5.25,
+    "categorias": ["frios"],
+    "badge": "popular",
+    "imagenes": []
+  },
+  {
+    "id": 10, "slug": "croissant-mantequilla",
+    "nombre": "Croissant de Mantequilla",
+    "descripcion": "Elaborado con mantequilla francesa. Hojaldrado, crujiente por fuera, suave y sedoso por dentro.",
+    "precio": 3.50,
+    "categorias": ["pasteleria"],
+    "imagenes": []
+  },
+  {
+    "id": 11, "slug": "banana-bread",
+    "nombre": "Banana Bread Artesanal",
+    "descripcion": "Húmedo, denso, con plátanos maduros y nueces. Receta de la casa horneada cada mañana.",
+    "precio": 3.25,
+    "categorias": ["pasteleria"],
+    "imagenes": []
+  },
+  {
+    "id": 12, "slug": "cheesecake-maracuya",
+    "nombre": "Cheesecake de Maracuyá",
+    "descripcion": "Base de galleta, crema cheese equilibrada y coulis de maracuyá tropical. Sin horno.",
+    "precio": 4.50,
+    "categorias": ["pasteleria"],
+    "badge": "popular",
+    "imagenes": []
+  },
+  {
+    "id": 13, "slug": "brownie-choco",
+    "nombre": "Brownie Triple Chocolate",
+    "descripcion": "Intenso, fudgy, con chocolate belga 70%. Servido tibio con helado de vainilla.",
+    "precio": 4.75,
+    "categorias": ["pasteleria"],
+    "imagenes": []
+  },
+  {
+    "id": 14, "slug": "desayuno-clasico",
+    "nombre": "Desayuno Clásico",
+    "descripcion": "Huevos revueltos, tostada artesanal, aguacate, queso crema y jugo natural del día.",
+    "precio": 7.50,
+    "categorias": ["desayunos"],
+    "badge": "popular",
+    "imagenes": []
+  },
+  {
+    "id": 15, "slug": "avocado-toast",
+    "nombre": "Avocado Toast",
+    "descripcion": "Pan de masa madre tostado, aguacate machacado con limón, hojuelas de chile y microgreens.",
+    "precio": 6.50,
+    "categorias": ["desayunos"],
+    "variantes": [
+      { "name": "Extra", "options": [
+        { "label": "Sin extra ($6.50)", "price": 6.50 },
+        { "label": "+ Huevo pochado ($7.50)", "price": 7.50 }
+      ]}
+    ],
+    "imagenes": []
+  },
+  {
+    "id": 16, "slug": "granola-bowl",
+    "nombre": "Granola Bowl",
+    "descripcion": "Granola casera, yogur griego, frutas frescas de temporada y miel de abeja.",
+    "precio": 5.75,
+    "categorias": ["desayunos"],
+    "imagenes": []
+  },
+  {
+    "id": 17, "slug": "sandwich-turkey",
+    "nombre": "Sándwich de Pavo",
+    "descripcion": "Pan ciabatta, pavo ahumado, queso suizo, mostaza Dijon, rúcula y tomate deshidratado.",
+    "precio": 7.00,
+    "categorias": ["sandwiches"],
+    "imagenes": []
+  },
+  {
+    "id": 18, "slug": "sandwich-caprese",
+    "nombre": "Sándwich Caprese",
+    "descripcion": "Pan focaccia, mozzarella fresca, tomate heirloom, albahaca y reducción de balsámico.",
+    "precio": 6.50,
+    "categorias": ["sandwiches"],
+    "imagenes": []
+  }
+]

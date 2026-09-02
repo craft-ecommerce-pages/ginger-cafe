@@ -1,0 +1,23 @@
+{
+  "badge_category": "parrilla",
+  "categories": {
+    "bolones": "Bolones y verde",
+    "desayunos": "Desayunos",
+    "tradicionales": "Tradicionales",
+    "mar": "Pescados y mariscos",
+    "parrilla": "Parrilla y apanados",
+    "sanduches": "Sánduches",
+    "adicionales": "Adicionales",
+    "bebidas": "Bebidas"
+  },
+  "currency": "$",
+  "site_title": "Ginger Café — Sabor costeño en Babahoyo",
+  "store_name": "Ginger Café",
+  "hero_title": "El sabor que <span class=\"hl\">despierta tus ganas</span>",
+  "hero_notice": "Precios incluyen IVA · No incluyen recargo",
+  "theme_primary": "#D51D13",
+  "theme_accent": "#87C617",
+  "whatsapp_message": "¡Hola, Ginger Café! Quiero pedir:",
+  "whatsapp_number": "",
+  "location_intro": "Babahoyo, Av. 6 de Octubre, diagonal a La Bahía."
+}
