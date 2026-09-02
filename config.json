@@ -1,23 +1,35 @@
 {
   "badge_category": "parrilla",
+  "catalog_notify_token": "488e7098-c7e9-4199-8b86-3b7fbdf4d376",
+  "catalog_notify_url": "https://crm.craftmarketing.agency/api/v1/catalog/notify-order",
   "categories": {
-    "bolones": "Bolones y verde",
-    "desayunos": "Desayunos",
-    "tradicionales": "Tradicionales",
-    "mar": "Pescados y mariscos",
-    "parrilla": "Parrilla y apanados",
-    "sanduches": "Sánduches",
-    "adicionales": "Adicionales",
-    "bebidas": "Bebidas"
+    "adicionales": "➕ Adicionales",
+    "bebidas": "🥤 Bebidas",
+    "bolones": "🟢 Bolones y verde",
+    "desayunos": "🍳 Desayunos",
+    "mar": "🐟 Pescados y mariscos",
+    "parrilla": "🔥 Parrilla y apanados",
+    "sanduches": "🥪 Sánduches",
+    "tradicionales": "🥘 Tradicionales"
   },
+  "category_order": [
+    "bolones",
+    "desayunos",
+    "tradicionales",
+    "mar",
+    "parrilla",
+    "sanduches",
+    "adicionales",
+    "bebidas"
+  ],
   "currency": "$",
+  "hero_notice": "Precios incluyen IVA · No incluyen recargo",
+  "hero_title": "El sabor que \u003cspan class=\"hl\"\u003edespierta tus ganas\u003c/span\u003e",
+  "location_intro": "Babahoyo, Av. 6 de Octubre, diagonal a La Bahía.",
   "site_title": "Ginger Café — Sabor costeño en Babahoyo",
   "store_name": "Ginger Café",
-  "hero_title": "El sabor que <span class=\"hl\">despierta tus ganas</span>",
-  "hero_notice": "Precios incluyen IVA · No incluyen recargo",
-  "theme_primary": "#D51D13",
   "theme_accent": "#87C617",
+  "theme_primary": "#D51D13",
   "whatsapp_message": "¡Hola, Ginger Café! Quiero pedir:",
-  "whatsapp_number": "",
-  "location_intro": "Babahoyo, Av. 6 de Octubre, diagonal a La Bahía."
+  "whatsapp_number": ""
 }
