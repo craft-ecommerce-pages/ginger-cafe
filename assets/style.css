@@ -467,7 +467,7 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:
   radial-gradient(circle at 82% 45%,rgba(213,29,19,.5),transparent 28%);color:#fff8ee;overflow:hidden}
 .hero::before{inset:auto -3% -55% auto;width:440px;height:440px;border:70px solid rgba(213,29,19,.24);border-radius:50%;background:none}
 .hero::after{content:'SABOR COSTEÑO';position:absolute;right:max(24px,calc((100vw - 1080px)/2));bottom:32px;color:rgba(255,255,255,.11);font:800 48px/1 'DM Sans';letter-spacing:.08em}
-.hero-top{position:relative;z-index:2;margin-bottom:58px}.brand-logo{width:72px;height:58px;padding:5px;border:1px solid rgba(255,255,255,.25);border-radius:16px;background:#fff;object-fit:contain}
+.hero-top{position:relative;z-index:2;margin-bottom:58px}.brand-logo{width:82px;height:66px;padding:0;border:0;border-radius:0;background:transparent;object-fit:contain}
 .brand-logo img{width:100%;height:100%;object-fit:contain}.brand-name,.hero h1,.cat-header,.card-name,.card-price,.cart-header h2,.cart-total-value,.modal-name{font-family:'Fraunces',Georgia,serif}
 .brand-name{font-size:25px;color:#fff}.brand-sub{color:rgba(255,255,255,.68);letter-spacing:.14em}.hero-avatar{border-radius:50%;border-color:rgba(255,255,255,.2);background:rgba(255,255,255,.08)}
 .hero h1{max-width:750px;font-size:clamp(48px,8vw,86px);font-weight:800;line-height:.94;letter-spacing:-.045em;padding:0;text-wrap:balance}.hero h1 .hl{color:#a9dc51;font-style:normal}
@@ -483,7 +483,7 @@ main{max-width:1080px;padding:22px 18px 40px}.cat-header{border:0;padding:16px 4
 .cart-drawer,.modal{border-radius:28px 28px 0 0}.modal{overflow:hidden}.location-card,.reservation-card{border-radius:20px;overflow:hidden;box-shadow:0 12px 35px rgba(80,39,15,.08)}
 footer{background:#32180f;color:#d9c4b7;padding:38px 20px}footer a{color:#a9dc51}
 @media(max-width:850px){.grid{grid-template-columns:repeat(2,1fr)}.hero::after{font-size:30px}.hero{min-height:360px}}
-@media(max-width:560px){.hero{padding:30px 18px 38px;min-height:330px}.hero-top{margin-bottom:42px}.hero::after{display:none}.brand-logo{width:58px;height:48px}.grid{grid-template-columns:1fr;gap:14px}.card{display:flex}.card-img{width:118px;aspect-ratio:auto}.card-body{padding:14px}.card-desc{min-height:0;-webkit-line-clamp:2}.cat-header{font-size:18px;padding-left:2px}}
+@media(max-width:560px){.hero{padding:30px 18px 38px;min-height:330px}.hero-top{margin-bottom:42px}.hero::after{display:none}.brand-logo{width:72px;height:58px}.grid{grid-template-columns:1fr;gap:14px}.card{display:flex}.card-img{width:118px;aspect-ratio:auto}.card-body{padding:14px}.card-desc{min-height:0;-webkit-line-clamp:2}.cat-header{font-size:18px;padding-left:2px}}
 
 /* Disposición rapi: conserva íntegramente el branding claro de Ginger Café. */
 .cat-strip{gap:10px;padding:12px 0 14px;align-items:stretch}
